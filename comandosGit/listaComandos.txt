@@ -1,1 +1,3 @@
 git clone: copia un repositorio ya existente y la añade a tu computadora 
+
+git commit: prepara el proyecto con un comentario para poder añadirlo al repositorio
