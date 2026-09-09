@@ -1,0 +1,1 @@
+git clone: copia un repositorio ya existente y la añade a tu computadora 
