@@ -1,3 +1,9 @@
 git clone: copia un repositorio ya existente y la añade a tu computadora 
 
 git commit: prepara el proyecto con un comentario para poder añadirlo al repositorio
+
+git push: sube el proyecto al repositorio
+
+git status: permite ver el estado actual del repositorio (avisa que archivos no han sido subidos todavía o si están modificados sin subir)
+
+git add:mueve los archivos al área de preparación para poder ser subidos
