@@ -1,0 +1,3 @@
+Nombre: Kevin Vera
+Edad: 20 años
+Hobby: Jugar futbol
