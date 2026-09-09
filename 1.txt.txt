@@ -1,3 +1,4 @@
 Nombre: Kevin Vera
-Edad: 20 años
 Hobby: Jugar futbol
+Pelicula Favorita: Civil War
+Comida Favorita: Encebollado
